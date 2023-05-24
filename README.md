@@ -1,5 +1,5 @@
-# text-template
-Text template rephrasing with LLMs for chemistry applications
+# text-template-paraphrasing-chemistry
+Text template paraphrasing with LLMs for chemistry applications.
 
 ## Example prompt
 ```
