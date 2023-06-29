@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/644856559.svg)](https://zenodo.org/badge/latestdoi/644856559)
 # text-template-paraphrasing-chemistry
 Text template paraphrasing with LLMs for chemistry applications.
 
